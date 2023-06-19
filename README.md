@@ -2,20 +2,6 @@
 Lab 5: Crash
 ************
 
-.. contents:: Contents
-    :depth: 2
-
-=====
-TL;DR
-=====
-
-Deadlines
----------
-
-- Tasks 1 and 2: March 26th, 23:59 Vancouver time
-- Tasks 3—5: April 2nd, 23:59 Vancouver time
-
-
 Summary
 -------
 
