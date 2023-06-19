@@ -1,8 +1,4 @@
 ************
-The Crash Shell
-************
-
-************
 Lab 5: Crash
 ************
 
@@ -12,6 +8,14 @@ Lab 5: Crash
 =====
 TL;DR
 =====
+
+Deadlines
+---------
+
+- Tasks 1 and 2: March 26th, 23:59 Vancouver time
+- Tasks 3—5: April 2nd, 23:59 Vancouver time
+
+
 Summary
 -------
 
